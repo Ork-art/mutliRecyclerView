@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="camera">Camera</string>
+    <string name="chat">Chat</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_see">Gallery See</string>
+    <string name="chat_see">Chat See</string>
+    <string name="camera_see">Camera See</string>
+    <string name="notification">Notification</string>
+    <string name="homepage">Home Page</string>
+</resources>
